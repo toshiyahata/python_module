@@ -3,3 +3,4 @@ __pycache__/
 #[*.拡張子]
 *.xlsx
 *.env
+*.csv
